@@ -1,3 +1,6 @@
 First line in Git Repository
 
 Second line in Git Repository
+
+Third line in Git Repository
+
