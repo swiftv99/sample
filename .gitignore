@@ -1,4 +1,4 @@
 # Ignore single file
-another_text.txt
+text.txt
 bin/
 *.tmp
